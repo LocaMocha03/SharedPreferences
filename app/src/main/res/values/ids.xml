@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_container" type="id" />
+    <item name="text_title" type="id" />
+    <item name="text_date" type="id" />
+    <item name="text_content" type="id" />
+    <item name="toolbar" type="id" />
+</resources>
